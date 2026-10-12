@@ -1,0 +1,10 @@
+.audio-btn{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: none;
+    background: #ff4757;
+    color: white;
+    font-size: 24px;
+
+}
