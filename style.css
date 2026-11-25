@@ -1,36 +1,57 @@
 body {
     text-align: center;
     font-family: "Comic Relief", system-ui;
-
+    background-color: antiquewhite;
 }
  h1 {
-  color:red;
+  color:#18534Fed;
   text-align: center;
   
  }
 
  h3 {
-     color: red;
+     color: #18534F;
      text-align: center;
  }
 
 
 
  .comic-relief-regular {
-  font-family: "Comic Relief", system-ui;
+  font-family: "Comic Relief";
   font-weight: 400;
   font-style: normal;
 }
 
 .comic-relief-bold {
-  font-family: "Comic Relief", system-ui;
+  font-family: "Comic Relief";
   font-weight: 700;
   font-style: normal;
 }
 
-img {
+.img {
 
     display: block;
     margin: 0 auto;
 
+}
+
+nav.navbar a:hover {
+  background-color: rgb(141, 128, 110);
+
+}
+
+nav.navbar {
+  display: block;
+  justify-content: center;
+  background-color: #0d2b29;
+  padding: 10px 0;
+}
+
+nav.navbar a {
+  color: #FEEAA1;
+  text-decoration: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border-radius: 25px;
+  transition: background-color 0.3s;
 }
