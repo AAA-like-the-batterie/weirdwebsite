@@ -12,7 +12,7 @@ There's 5 page on it. Maybe I'll add more later.
 <img src="Screenshot/weirdwebsite.png" alt="Screenshot of the website." width="70%" >
 
 ##### And a screenshot of the code.
-<img src="Sreenshot/code.png" alt="Screenshot of the code". width="70%">
+<img src="Screenshot/code.png" alt="Screenshot of the code." width="70%">
 
 
 # What did I use ?
