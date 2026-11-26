@@ -38,5 +38,6 @@ Find the 'index.html' and double click it.
 Select a browser.
 *Et voilà !*
 
+**Edit for the reviewer, I've already passed 13,25 hours on it, the additional hour are the update :P**
 
 ### I've made this readme by following the templte of Fynr1x : https://gist.github.com/FaizeenHoque/0709576cc598721df07fb62d2430e6fe
