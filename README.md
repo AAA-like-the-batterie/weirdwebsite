@@ -8,7 +8,11 @@ Not a lot of things hehehe, you can navigate through the website adn learn about
 
 There's 5 page on it. Maybe I'll add more later.
 
-<img src="Screenshot/weirdwebsite.png" alt="Screenshotpage2" width="70%" >
+##### The first page of the website.
+<img src="Screenshot/weirdwebsite.png" alt="Screenshot of the website." width="70%" >
+
+##### And a screenshot of the code.
+<img src="Sreenshot/code.png" alt="Screenshot of the code". width="70%">
 
 
 # What did I use ?
